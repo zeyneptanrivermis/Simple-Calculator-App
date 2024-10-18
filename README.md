@@ -1,7 +1,7 @@
 # Simple-Calculator-App
  This is a simple calculator Android application developed using Java and Android Studio.
 # Features
-Enter two numbers in the input fields.
+Enter two numbers in the input fields. \br
 Press the corresponding button to perform an arithmetic operation:
 Sum: Adds the two numbers.
 Subtraction: Subtracts the second number from the first.
